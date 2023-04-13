@@ -1,7 +1,8 @@
 <h1> <p align=center>- fedora-dotfiles-laptop -</h1>
 <h6> <p align=center> A Work in Progress Repo cloned from <a href="https://github.com/spongeyperson/arch-dotfiles/">spongeyperson/arch-dotfiles</a></h6>
-
 <br>
+
+<p align=center><img src="https://user-images.githubusercontent.com/28176188/231780128-48fd2c34-8f61-48cf-b981-e98e31a409aa.png"></p>
 
 <h2>Index:</h2>
 <ul>
