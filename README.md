@@ -13,12 +13,12 @@
       </ul>   
       <li><b><u>Configurations</u></b>:</li>
         <ul>
-          <li><a href="https://github.com/spongeyperson/arch-dotfiles/tree/master/etc/X11/xorg.conf.d/">Xorg configuration</a></li>
-          <li><a href="https://github.com/spongeyperson/arch-dotfiles/tree/master/home/tyler/.local/share/plasma/layout-templates">Custom KDE panels</a></li>
+          <li><a href="https://github.com/spongeyperson/fedora-dotfiles-laptop/tree/master/etc/X11/xorg.conf.d/">Xorg configuration</a></li>
+          <li><a href="https://github.com/spongeyperson/fedora-dotfiles-laptop/tree/master/home/tyler/.local/share/plasma/layout-templates">Custom KDE panels</a></li>
           <li><b><u>VFIO / GPU Passthrough Related</u></b>:</li>
             <ul>
-              <li><a href="https://github.com/spongeyperson/arch-dotfiles/tree/master/usr/share/kvm">GPU VBIOS ROMs</a></li>
-              <li><a href="https://github.com/spongeyperson/arch-dotfiles/tree/master/etc/libvirt/qemu">Virsh Config XMLs</a></li>
+              <li><a href="https://github.com/spongeyperson/fedora-dotfiles-laptop/tree/master/usr/share/kvm">GPU VBIOS ROMs</a></li>
+              <li><a href="https://github.com/spongeyperson/fedora-dotfiles-laptop/tree/master/etc/libvirt/qemu">Virsh Config XMLs</a></li>
             </ul>
           </ul>
         </ul>
