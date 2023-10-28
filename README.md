@@ -1,4 +1,4 @@
-<h1> <p align=center>- fedora-dotfiles-laptop -</h1>
+<h1> <p align=center>- nobara-dotfiles-g15 -</h1>
 <h6> <p align=center> A Work in Progress Repo cloned from <a href="https://github.com/spongeyperson/arch-dotfiles/">spongeyperson/arch-dotfiles</a></h6>
 <br>
 
