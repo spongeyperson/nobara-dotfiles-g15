@@ -1,3 +1,6 @@
+> <p align=center> ⚠️ <u><b>This Repository is Currently Unmaintained</u></b> ⚠️ </p>
+> <p align=center> This repository is Archived as i am not currently running Fedora Linux on my host system, and this repository has not been updated in quite awhile. Please Refer to <a href="https://github.com/spongeyperson/spongeyperson/blob/main/README.md">spongeyperson/README.md</a> for up to date repositories and more information. <i><b>Use this Repo at your own risk</b></i></p>
+
 <h1> <p align=center>- nobara-dotfiles-g15 -</h1>
 <h6> <p align=center> A Work in Progress Repo cloned from <a href="https://github.com/spongeyperson/arch-dotfiles/">spongeyperson/arch-dotfiles</a></h6>
 <br>
